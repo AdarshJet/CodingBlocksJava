@@ -8,7 +8,7 @@ public class Recursion_Pattern {
 	}
 	public static void RecursionPatter()
 	{
-		
+		System.out.println("Recursion");
 	}
 }
 
